@@ -10,7 +10,8 @@ var vertices = [
     vec2(  0.5, 0.5 ),
     vec2( 0.5, -0.5)
 ];
-
+var length = 0.5;
+var width = 0.5;
 window.onload = function init()
 {
     var canvas = document.getElementById( "gl-canvas" );
@@ -22,7 +23,7 @@ window.onload = function init()
     //  Configure WebGL
     //
     gl.viewport( 0, 0, canvas.width, canvas.height );
-    gl.clearColor( 0.0, 0.0, 0.0, 1.0 );
+    gl.clearColor(1.0, 0.0, 0.0, 1.0 );
     
     //  Load shaders and initialize attribute buffers
     
@@ -40,10 +41,32 @@ window.onload = function init()
     var vPosition = gl.getAttribLocation( program, "vPosition" );
     gl.vertexAttribPointer( vPosition, 2, gl.FLOAT, false, 0, 0 );
     gl.enableVertexAttribArray( vPosition );
-	
+	 document.getElementById("sliderlength").onchange =
+      function (event) {
+          length = event.target.value;
+          vertices = [
+    vec2( -width, -length),
+    vec2(  -width,  length),
+    vec2(  width, length),
+    vec2( width, -length)
+    ];
+  
     render();
 };
+     document.getElementById("sliderwidth").onchange =
+      function (event) {
+          width = event.target.value;
+          vertices = [
+    vec2( -width, -length),
+    vec2(  -width,  length),
+    vec2(  width, length),
+    vec2( width, -length)
+    ];
+      render();
+    };
+  render();
 
+};
 
 function render() {
     gl.clear( gl.COLOR_BUFFER_BIT );

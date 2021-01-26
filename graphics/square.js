@@ -40,11 +40,7 @@ window.onload = function init()
     var vPosition = gl.getAttribLocation( program, "vPosition" );
     gl.vertexAttribPointer( vPosition, 2, gl.FLOAT, false, 0, 0 );
     gl.enableVertexAttribArray( vPosition );
-	 document.getElementById("whateverval").onchange =
-      function (event) {
-          var x = event.target.value;
-          ...
-      };
+	
     render();
 };
 

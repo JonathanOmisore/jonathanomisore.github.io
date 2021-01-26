@@ -1,75 +1,40 @@
-"use strict";
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script id="vertex-shader" type="x-shader/x-vertex">
+        attribute vec4 vPosition;
 
-var gl;
-var points;
+        void
+        main()
+        {
+            gl_Position = vPosition;
+        }
+    </script>
 
-// Four Vertices
-var vertices = [
-    vec2( -0.5, -0.5 ),
-    vec2(  -0.5,  0.5 ),
-    vec2(  0.5, 0.5 ),
-    vec2( 0.5, -0.5)
-];
-var length = 0.5;
-var width = 0.5;
-window.onload = function init()
-{
-    var canvas = document.getElementById( "gl-canvas" );
-    
-    gl = WebGLUtils.setupWebGL( canvas );
-    if ( !gl ) { alert( "WebGL isn't available" ); }
+    <script id="fragment-shader" type="x-shader/x-fragment">
+        precision mediump float;
 
-    //
-    //  Configure WebGL
-    //
-    gl.viewport( 0, 0, canvas.width, canvas.height );
-    gl.clearColor(1.0, 0.0, 0.0, 1.0 );
-    
-    //  Load shaders and initialize attribute buffers
-    
-    var program = initShaders( gl, "vertex-shader", "fragment-shader" );
-    gl.useProgram( program );
-    
-    // Load the data into the GPU
-    
-    var bufferId = gl.createBuffer();
-    gl.bindBuffer( gl.ARRAY_BUFFER, bufferId );
-    gl.bufferData( gl.ARRAY_BUFFER, flatten(vertices), gl.STATIC_DRAW );
+        void
+        main()
+        {
+            gl_FragColor = vec4(0.0, 0.0, 1.0, 1.0 );
+        }
+    </script>
 
-    // Associate out shader variables with our data buffer
-    
-    var vPosition = gl.getAttribLocation( program, "vPosition" );
-    gl.vertexAttribPointer( vPosition, 2, gl.FLOAT, false, 0, 0 );
-    gl.enableVertexAttribArray( vPosition );
-	 document.getElementById("sliderlength").onchange =
-      function (event) {
-          length = event.target.value;
-          vertices = [
-    vec2( -width, -length),
-    vec2(  -width,  length),
-    vec2(  width, length),
-    vec2( width, -length)
-    ];
-  
-    render();
-};
-     document.getElementById("sliderwidth").onchange =
-      function (event) {
-          width = event.target.value;
-          vertices = [
-    vec2( -width, -length),
-    vec2(  -width,  length),
-    vec2(  width, length),
-    vec2( width, -length)
-    ];
-      render();
-    };
-  render();
+    <script type="text/javascript" src="Common/webgl-utils.js"></script>
+    <script type="text/javascript" src="Common/initShaders.js"></script>
+    <script type="text/javascript" src="Common/MV.js"></script>
+    <script type="text/javascript" src="square.js"></script>
+</head>
 
-};
-
-function render() {
-    gl.clear( gl.COLOR_BUFFER_BIT );
-    gl.bufferData( gl.ARRAY_BUFFER, flatten(vertices), gl.STATIC_DRAW );
-    gl.drawArrays( gl.TRIANGLE_FAN, 0, 4 );
-}
+<body>
+    <canvas id="gl-canvas" width="512" height="512">
+        Oops ... your browser doesn't support the HTML5 canvas element
+    </canvas>
+    <br />
+    length: 0 <input id= "sliderlength" type="range" min="0" max="1" step=".1" value=".5" /> 1
+    <br />
+    width: 0 <input id= "sliderwidth" type="range" min="0" max="1" step=".1" value=".5" /> 1
+</body>
+</html>

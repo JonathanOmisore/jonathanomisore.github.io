@@ -37,7 +37,7 @@ Eddy is a bird, Tux is a bird, Eddy is an Eagle, Tux is a Penguin, Eddy can Fly,
 
 
 We can use the applications of Answer Set Programming to create a Caesar cipher that can encode the word apple with a shift of 27.
-
+{% highlight %} 
 position(1) :- letter(a).
 position(2) :- letter(b).
 position(3) :- letter(c).
@@ -96,3 +96,4 @@ cipherletter(w):- encryption(23).
 cipherletter(x):- encryption(24).
 cipherletter(y):- encryption(25).
 cipherletter(z):- encryption(26).
+{% endhighlight %} 

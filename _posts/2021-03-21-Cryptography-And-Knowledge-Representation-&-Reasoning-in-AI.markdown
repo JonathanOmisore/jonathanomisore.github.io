@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cryptography and Knowledge Representation & Reasoning"
+title:  "Cryptography and Knowledge Representation & Reasoning in AI"
 date:   2021-03-21 12:59 -0500
 categories: jekyll update
 ---

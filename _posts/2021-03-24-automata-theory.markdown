@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Automata Theory"
-date:   2021-03-24 05:04 -0500
+date:   2021-03-24 17:13 -0500
 
 ---
 jojoj

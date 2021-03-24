@@ -9,8 +9,9 @@ date:   2021-03-21 12:59 -0500
 
 
 In cryptography, the Caesar cipher is a simple type of cipher known as a substitution cipher.
-With the Caesar cipher, each plaintext letter to be encrypted is replaced by a letter with a shift of n. 
-For example, with a left shift of 3, D would be replaced by A, E would become B, and so on. 
+With the Caesar cipher, each plaintext letter to be encrypted is replaced by a letter with a shift of n. With a left shift where n = 3, D would be replaced by A, E would become B, and so on. 
+![image](/images/500px-Caesar_cipher_left_shift_of_3.svg.png)
+<caption>Example of a Caesar cipher</caption>
 This can be solved using a subdiscipline of artificial intelligence known as Knowledge Representation and Reasoning, In Knowledge Representation and Reasoning,
 information about the world is represented in a form that an intelligent agent can understand so it may solve a problem. This is often accomplished via
 logic-based programming languages such as Prolog and Lisp. Logic-based programming languages are applications of mathematical logic, which

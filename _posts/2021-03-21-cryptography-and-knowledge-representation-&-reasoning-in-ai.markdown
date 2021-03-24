@@ -4,7 +4,6 @@ title:  "Cryptography and Knowledge Representation & Reasoning in AI"
 date:   2021-03-21 12:59 -0500
 
 ---
-![image](/images/500px-Caesar_cipher_left_shift_of_3.svg.png)
 
 
 
@@ -12,13 +11,13 @@ In cryptography, the Caesar cipher is a simple type of cipher known as a substit
 With the Caesar cipher, each plaintext letter to be encrypted is replaced by a letter with a shift of n. With a left shift where n = 3, D would be replaced by A, E would become B, and so on. 
 ![image](/images/500px-Caesar_cipher_left_shift_of_3.svg.png)
 <caption>Example of a Caesar cipher</caption>
-This can be solved using a subdiscipline of artificial intelligence known as Knowledge Representation and Reasoning, In Knowledge Representation and Reasoning,
-information about the world is represented in a form that an intelligent agent can understand so it may solve a problem. This is often accomplished via
-logic-based programming languages such as Prolog and Lisp. Logic-based programming languages are applications of mathematical logic, which
-is very helpful for artificial intelligence.
-I will use a specific paradigm known as Answer Set Programming. Answer Set Programming is a logic-based programming parAI adigm that is useful for solving knowledge 
-representation and reasoning tasks in AI within the constraints of strict rules.
-For example, consider the following Answer Set Program:
+
+This is within the scope of a subdiscipline of artificial intelligence known as <b>Knowledge Representation and Reasoning</b>. In Knowledge Representation and Reasoning,
+information about the world is represented in a form that an intelligent agent can understand. 
+
+Knowledge and representation and reasoning often makes use of a subdiscipline of mathematical logic known as first order logic.  Logic-programming languages such as Prolog and Lisp make use of first order logic, and they are very useful for AI. A specific paradigm known as Answer Set Programming can be used.
+
+Consider the following Answer Set Program:
 p(a) or p(b).
 p(a).
 p(b).

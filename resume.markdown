@@ -17,7 +17,7 @@ permalink: /resume/
 * Linux operating system
 * Backend Web Development
 * Programming Languages:
-  *  Python
+  * Python
   * C/C++
   * Java
   * C#

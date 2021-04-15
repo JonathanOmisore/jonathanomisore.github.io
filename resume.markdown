@@ -7,7 +7,7 @@ permalink: /resume/
 * Education: Kennesaw State University (2017-2021)
   * Bachelor of Science in Computer Science, Minor in Mathematics
 
-##Skills and Expertise:
+## Skills and Expertise:
 * Artificial intelligence:
 ** Multi-agent systems
 ** Agent-based modeling

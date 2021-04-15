@@ -14,6 +14,8 @@ permalink: /resume/
 ** Deep Learning
 ** Reinforcement Learning
 * Academic research
+* Linux operating system
+* Backend Web Development
 * Programming Languages:
 ** Python
 ** C/C++

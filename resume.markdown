@@ -9,16 +9,16 @@ permalink: /resume/
 
 ## Skills and Expertise:
 * Artificial intelligence:
-* * Multi-agent systems
-* * Agent-based modeling
-* * Deep Learning
-* * Reinforcement Learning
+ * Multi-agent systems
+ * Agent-based modeling
+ * Deep Learning
+ * Reinforcement Learning
 * Academic research
 * Linux operating system
 * Backend Web Development
 * Programming Languages:
-* * * Python
-* * * C/C++
-* * * Java
-* * * C#
-* * * PHP
+  *  Python
+  * C/C++
+  * Java
+  * C#
+  * PHP

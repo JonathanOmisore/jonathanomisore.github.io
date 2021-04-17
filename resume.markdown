@@ -17,12 +17,13 @@ permalink: /resume/
   * Cellular automata
   * Automata theory
   * Formal languages
-* Academic research
-* Linux operating system
-* Backend Web Development
 * Programming Languages:
   * Python
   * C/C++
   * Java
   * C#
   * PHP
+* Academic research
+* Linux operating system
+* Backend web development
+

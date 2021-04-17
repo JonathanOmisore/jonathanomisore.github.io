@@ -13,6 +13,10 @@ permalink: /resume/
   * Agent-based modeling
   * Deep Learning
   * Reinforcement Learning
+* Theoretical computer science:
+  * Cellular automata
+  * Automata theory
+  * Formal languages
 * Academic research
 * Linux operating system
 * Backend Web Development

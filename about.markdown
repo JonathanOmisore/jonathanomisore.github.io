@@ -10,11 +10,9 @@ permalink: /about/
 * [Logic and foundations of mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics)
   * Particularly as it relates to [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science) and [automated theorem proving](https://en.wikipedia.org/wiki/Automated_theorem_proving).
 * [Cognitive science](https://plato.stanford.edu/entries/cognitive-science/)
-  * Particularly [cognitive architectures](https://en.wikipedia.org/wiki/Cognitive_architecture), and computational reasoning models of [numerical cognition](https://en.wikipedia.org/wiki/Numerical_cognition) and [animal cognition](https://en.wikipedia.org/wiki/Animal_cognition).
+  * Particularly [cognitive architectures](https://en.wikipedia.org/wiki/Cognitive_architecture),[numerical cognition](https://en.wikipedia.org/wiki/Numerical_cognition) [animal cognition](https://en.wikipedia.org/wiki/Animal_cognition), and computational models thereof.
 * [Agent-based models](https://en.wikipedia.org/wiki/Agent-based_model) and [multi-agent systems](https://en.wikipedia.org/wiki/Multi-agent_system)
   * Particularly computational simulations of phenomena related to economics, ethology, game theory, and evolutionary anthropology.
-* Philosophy
-  * [Transhumanism](https://en.wikipedia.org/wiki/Transhumanism), [philosophy of mind](https://en.wikipedia.org/wiki/Philosophy_of_mind) (particularly computational theory of mind), logic, and [philosophy of mathematics](https://en.wikipedia.org/wiki/Philosophy_of_mathematics) (particularly [formalism](https://plato.stanford.edu/entries/formalism-mathematics/)). 
 * Formal languages and programming language theory
   * Functional and logic programming langages, compilers, and semantics.
 

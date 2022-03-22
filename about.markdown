@@ -10,7 +10,7 @@ permalink: /about/
 * [Logic and foundations of mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics)
   * Particularly the intersection with [formalism](https://en.wikipedia.org/wiki/Formalism_(philosophy_of_mathematics)) and theoretical computer science.
 * Cognitive science
-  *Particularly cognitive architectures, numerical cognition, and animal cognition.
+  * Particularly cognitive architectures, numerical cognition, and animal cognition.
 * Agent-based models and multi-agent systems
   * Particularly simulations of phenemona in economics, ethology, and evolutionary anthropology.
 * Formal languages and programming language theory

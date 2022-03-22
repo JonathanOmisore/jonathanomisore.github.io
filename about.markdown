@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Research interests:
 * Artificial intelligence
-  * With an emphasis on [symbolic AI](https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence) and how it can be used to replicate human reasoning ("[automated reasoning](https://en.wikipedia.org/wiki/Automated_reasoning)"). Also practical applications of non-symbolic AI such as [deep learning](https://en.wikipedia.org/wiki/Deep_learning) and [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning), and in addition, how they can synergize with symbolic AI to create [explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence).
+  * With an emphasis on [symbolic AI](https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence) and how it can be used to replicate human reasoning ("[automated reasoning](https://en.wikipedia.org/wiki/Automated_reasoning)"). Also practical applications of non-symbolic AI such as [deep learning](https://en.wikipedia.org/wiki/Deep_learning) and [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning), and in addition, how non-symbolic AI can be enhanced with symbolic AI to create [explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence).
 * [Logic and foundations of mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics)
   * Particularly the intersection with [formalism](https://en.wikipedia.org/wiki/Formalism_(philosophy_of_mathematics)) and theoretical computer science.
 * Cognitive science

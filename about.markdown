@@ -14,7 +14,7 @@ permalink: /about/
 * Agent-based models and multi-agent systems
   * Particularly simulations of phenemona in economics, ethology, and evolutionary anthropology.
 * Philosophy
- * Transhumanism, philosophy of mind (particularly computational theory of mind), logic, and philosophy of mathematics (particularly [formalism](https://en.wikipedia.org/wiki/Formalism_(philosophy_of_mathematics)). 
+  * Transhumanism, philosophy of mind (particularly computational theory of mind), logic, and philosophy of mathematics (particularly [formalism](https://en.wikipedia.org/wiki/Formalism_(philosophy_of_mathematics)). 
 * Formal languages and programming language theory
 
 <!---

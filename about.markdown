@@ -11,11 +11,12 @@ permalink: /about/
   * Particularly the intersection with  theoretical computer science.
 * Cognitive science
   * Particularly cognitive architectures, numerical cognition, and animal cognition.
-* Agent-based models and multi-agent systems
-  * Particularly simulations of phenemona in economics, ethology, and evolutionary anthropology.
+* [Agent-based models](https://en.wikipedia.org/wiki/Agent-based_model) and [multi-agent systems](https://en.wikipedia.org/wiki/Multi-agent_system)
+  * Particularly computational simulations of phenemona in economics, ethology, game theory, and evolutionary anthropology.
 * Philosophy
-  * Transhumanism, philosophy of mind (particularly computational theory of mind), logic, and philosophy of mathematics (particularly [formalism](https://en.wikipedia.org/wiki/Formalism_(philosophy_of_mathematics))). 
+  * [Transhumanism](https://en.wikipedia.org/wiki/Transhumanism) [philosophy of mind](https://en.wikipedia.org/wiki/Philosophy_of_mind) (particularly computational theory of mind), logic, and [philosophy of mathematics](https://en.wikipedia.org/wiki/Philosophy_of_mathematics) (particularly [formalism](https://plato.stanford.edu/entries/formalism-mathematics/)). 
 * Formal languages and programming language theory
+ * Functional and logic programming langages, compilers, and semantics.
 
 <!---
 

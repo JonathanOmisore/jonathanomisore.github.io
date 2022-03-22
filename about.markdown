@@ -6,9 +6,9 @@ permalink: /about/
 
 ##Research interests:
 * Artificial intelligence
-** With an emphasis on [https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence](symbolic AI) and how it can be used to replicate human reasoning ("[https://en.wikipedia.org/wiki/Automated_reasoning](automated reasoning)"). Also practical applications of non-symbolic AI such as [https://en.wikipedia.org/wiki/Deep_learning](deep learning) and [reinforcement learning, and in addition, how they can synergize with symbolic AI for [https://en.wikipedia.org/wiki/Explainable_artificial_intelligence](explainable AI).
-* [https://en.wikipedia.org/wiki/Foundations_of_mathematics](Logic and foundations of mathematics)
-** Particularly the intersection with [https://en.wikipedia.org/wiki/Formalism_(philosophy_of_mathematics)](formalism) and theoretical computer science.
+** With an emphasis on (symbolic AI)[https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence] and how it can be used to replicate human reasoning ("automated reasoning)[https://en.wikipedia.org/wiki/Automated_reasoning]("). Also practical applications of non-symbolic AI such as (deep learning)[https://en.wikipedia.org/wiki/Deep_learning] and [reinforcement learning, and in addition, how they can synergize with symbolic AI for (explainable AI)[https://en.wikipedia.org/wiki/Explainable_artificial_intelligence].
+* (Logic and foundations of mathematics)[https://en.wikipedia.org/wiki/Foundations_of_mathematics]
+** Particularly the intersection with (formalism)[https://en.wikipedia.org/wiki/Formalism_(philosophy_of_mathematics)] and theoretical computer science.
 * Cognitive science
 ** Particularly cognitive architectures, numerical cognition, and animal cognition.
 * Agent-based models and multi-agent systems

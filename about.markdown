@@ -16,7 +16,7 @@ permalink: /about/
 * Philosophy
   * [Transhumanism](https://en.wikipedia.org/wiki/Transhumanism) [philosophy of mind](https://en.wikipedia.org/wiki/Philosophy_of_mind) (particularly computational theory of mind), logic, and [philosophy of mathematics](https://en.wikipedia.org/wiki/Philosophy_of_mathematics) (particularly [formalism](https://plato.stanford.edu/entries/formalism-mathematics/)). 
 * Formal languages and programming language theory
- * Functional and logic programming langages, compilers, and semantics.
+  * Functional and logic programming langages, compilers, and semantics.
 
 <!---
 

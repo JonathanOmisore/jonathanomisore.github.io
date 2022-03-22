@@ -10,7 +10,7 @@ permalink: /about/
 * [Logic and foundations of mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics)
   * Particularly as it relates to [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science) and [automated theorem proving](https://en.wikipedia.org/wiki/Automated_theorem_proving).
 * [Cognitive science](https://plato.stanford.edu/entries/cognitive-science/)
-  * Particularly [cognitive architectures](https://en.wikipedia.org/wiki/Cognitive_architecture), and computational reasoning models of [numerical cognition](https://en.wikipedia.org/wiki/Numerical_cognition) and [https://en.wikipedia.org/wiki/Animal_cognition](animal cognition).
+  * Particularly [cognitive architectures](https://en.wikipedia.org/wiki/Cognitive_architecture), and computational reasoning models of [numerical cognition](https://en.wikipedia.org/wiki/Numerical_cognition) and [animal cognition](https://en.wikipedia.org/wiki/Animal_cognition).
 * [Agent-based models](https://en.wikipedia.org/wiki/Agent-based_model) and [multi-agent systems](https://en.wikipedia.org/wiki/Multi-agent_system)
   * Particularly computational simulations of phenomena related to economics, ethology, game theory, and evolutionary anthropology.
 * Philosophy

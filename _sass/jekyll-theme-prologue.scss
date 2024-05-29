@@ -263,8 +263,10 @@
 
 		&.featured {
 			display: block;
-			width: auto;
-			height: 30%;
+			max-width:230px;
+  			max-height:95px;
+  			width: auto;
+  			height: auto;
 			margin: 0 0 2em 0;
 		}
 

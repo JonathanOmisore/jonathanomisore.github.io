@@ -263,8 +263,8 @@
 
 		&.featured {
 			display: block;
-			margin-left: auto;
-  			margin-right: auto;
+			display: flex;
+                        justify-content: center;
   			width: 20%;
 			margin: 0 0 2em 0;
 		}

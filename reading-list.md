@@ -8,7 +8,7 @@ order: 3
 
 I love books! Here are some I have read:
 
-1. *The Aristocracy of Talent by Adrian WooldridgeThe Aristocracy of Talent: How Meritocracy Made the Modern World* by Adrian Wooldrige
+1. *The Aristocracy of Talent: How Meritocracy Made the Modern World* by Adrian Wooldrige
 2. *The Metamorphosis* by Franz Kafka
 3. *I, Robot* by Isaac Asimov
 4. *The Art of War* by Sun Tzu
